@@ -5,12 +5,14 @@
 - 진행방식: 이론 강의 후 실습 및 문제 풀이
 - 진행목적: Java 언어를 학습하여, OOP와 자료구조, 알고리즘에 대해 학습
 
+* * *
 ### 2. Mentoring Member
 |**Name**  |고현석|문권이|이지현|임찬섭|채서윤|
 |----------|----|----|-----|----|----|
 |&nbsp;**Role**  |&nbsp;&nbsp;&nbsp;&nbsp;**멘토**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|
 |**Github**|[@khsexk](https://github.com/khsexk)|[@M00NPANG](https://github.com/M00NPANG)|[@jhyeonn](https://github.com/jhyeonn)|[@limchansub](https://github.com/limchansub)|[@seoyoun8694](https://github.com/seoyoun8694)|
 
+* * * 
 ### 3. Lecture Notes
 - 1주차 (1회)
   - 4/1: [OOP와 자바 강의자료](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/1st-week-1.md)
@@ -34,4 +36,10 @@
   - 4/27
 
 * * *
-### 4. Toy Project
+### 4. Exam
+- 4/4: [1차 시험](https://forms.gle/6cnSNPG5DppEtt7T6)
+- 4/11: [2차 시험]()
+
+* * *
+### 5. Toy Project
+- [Link](https://github.com/Catch-Java/2nd-Catch-JAVA/tree/main/03_Toy-Project)
