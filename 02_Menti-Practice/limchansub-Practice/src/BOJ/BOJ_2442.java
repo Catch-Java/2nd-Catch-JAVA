@@ -1,5 +1,5 @@
 package BOJ;
-
+//별찍기 
 import java.util.*;
 public class BOJ_2442 {
 

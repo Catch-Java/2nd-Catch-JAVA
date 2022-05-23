@@ -1,5 +1,5 @@
 package BOJ;
-
+//피보나치 수열 
 import java.util.*;
 
 public class BOJ_2747 {
@@ -8,9 +8,7 @@ public class BOJ_2747 {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
-		int f1=1;
-		int f2=1;
-		int sum=0;
+		int f1=1,f2=1,sum=0;
 		if(n==1) {
 			sum=f1;
 		}else if(n==2) {
