@@ -1,11 +1,14 @@
 package BOJ;
+import java.io.*;
 import java.util.*;
+//에디터  
 public class BOJ_1406 {
 
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		ArrayList<Character> arr = new ArrayList<Character>();
-		String s = sc.nextLine();
+	public static void main(String[] args) throws IOException {
+		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		LinkedList<Character> arr = new LinkedList<Character>();
+		String s = bf.readLine();
 		for(int i=0;i<s.length();i++ ) {
 			arr.add(s.charAt(i));
 		}
@@ -15,10 +18,9 @@ public class BOJ_1406 {
 		while(iter.hasNext()) {
 			iter.next();
 		}
-		int n = sc.nextInt();
-		sc.nextLine();
+		int n = Integer.parseInt(bf.readLine());  
 		for(int i= 0; i<n;i++) {
-			String get = sc.nextLine();
+			String get = bf.readLine();
 			switch(get.charAt(0)) {
 			case 'L':
 				if(iter.hasPrevious()) {
@@ -32,12 +34,11 @@ public class BOJ_1406 {
 				break;
 			case 'B':
 				if(iter.hasPrevious()) {
-					iter.hasPrevious();
+					iter.previous();
 					iter.remove();
 				}
 				break;
 			case 'P':
-				System.out.print(get);
 				char b = get.charAt(2);
 				iter.add(b);
 				break;
@@ -48,9 +49,10 @@ public class BOJ_1406 {
 			
 		}
 		for(char c: arr) {
-			System.out.print(c);
+			bw.write(c);
 		}
-		
+		bf.close();
+		bw.close();
 		
 	}
 }
