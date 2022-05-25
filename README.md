@@ -26,30 +26,32 @@
   - 4/6: [Collection Framework 2](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/2nd-week-2.md)
     - LinkedList
     - Stack과 Queue
-- 3주차 (4회, 5회)
+- 3주차 (4회)
   - 4/11: 문제풀이 및 프로젝트 진행
   - 4/13: 시험기간으로 인해 진행 X
 - 4주차
   - 시험기간으로 인해 진행 X
 - 5주차
   - 시험기간으로 인해 진행 X
-- 6주차
+- 6주차 (5회)
   - 5/2: 문제풀이
   - 5/4: 코로나19로 인한 취소
 - 7주차
   - 5/11: 코로나19로 인한 과제 대체
   - 5/13: 코로나19로 인한 과제 대체
-- 8주차
+- 8주차 (6회, 7회)
   - 5/16: 문제풀이
   - 5/18: 문제풀이
-- 9주차
+- 9주차 (8회, 9회)
   - 5/23: [Collection Framework3](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/9th-week-1.md)
     - Iterator
     - ListIterator
     - Enumeration
-  - 5/25
-- 10주차
-  - 5/30
+  - 5/25: [Collection Framework4](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/9th-week-2.md)
+    - Arrays
+    - Comparator, Comparable
+- 10주차 (10회)
+  - 5/30: [Collection Framework5](https://github.com/Catch-Java/2nd-Catch-JAVA/blob/main/01_Documents/10th-week-1.md)
   - 6/1: 공휴일
 - 11주차
   - 6/6: 공휴일
