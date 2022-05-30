@@ -9,7 +9,7 @@ public class PG_68935 {
 		int N = scanf.nextInt();
 		int answer = 0;
 		
-		List<Integer> num =new ArrayList<>();
+		List<Integer> num =new ArrayList<Integer>();
 		 
 		while(N != 0) {
 			 num.add(N%3);
